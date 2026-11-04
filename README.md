@@ -1,6 +1,6 @@
 # Blog Uploader · Obsidian 一键上博插件
 
-配合 [obsidian-blog（数字花园）](https://github.com/) 使用：写完笔记点一下，自动完成
+配合 [obsidian-blog（数字花园）](https://github.com/lunshi2022/obsidian-blog) 使用：写完笔记点一下，自动完成
 
 > 复制笔记到博客仓库（保持库内目录结构）→ 复制它引用的全部附件 → 自动构建（可选）→ git 提交推送（可选）
 
